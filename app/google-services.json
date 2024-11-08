@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527810070344",
+    "project_id": "socialapp-bb065",
+    "storage_bucket": "socialapp-bb065.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527810070344:android:c667ef96b6df56e96b957d",
+        "android_client_info": {
+          "package_name": "com.vogella.android.doantest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOcwd4tda5mlz-IexKt99R6VGqWak35uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527810070344:android:232e16ded0640c286b957d",
+        "android_client_info": {
+          "package_name": "com.vogella.android.socialproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOcwd4tda5mlz-IexKt99R6VGqWak35uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
